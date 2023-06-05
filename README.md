@@ -27,6 +27,9 @@
 </div>
   
   ##
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zackkz&bg_color=0D1117&color=05ffe2&line=403d3d&point=05ffe2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  [![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zackkz&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zackkz&bg_color=0D1117&color=05ffe2&line=403d3d&point=05ffe2&area=true&hide_border=true">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zackkz&theme=dark&background=0D1117&stroke=05ffe2&ring=403d3d&fire=05ffe2&currStreakLabel=05ffe2&sideLabels=05ffe2">
 </div>
