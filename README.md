@@ -1,9 +1,8 @@
 ## Programador estudante na UFMS Campo Grande, 18 anos, com expertise em Node.js e Python.
 <div align="center">
-  <h2>Programador Estudante na UFMS Campo Grande</h2>
-  <img src="https://raw.githubusercontent.com/Zackkz/Zackkz/main/assets/programming.gif" width="300px">
-  <br>
-  <p>Python e Node.js</p>
+  <a href="https://github.com/Zackkz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zackkz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackkz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center"> 
 <a href="mailto:vinicius.matheus@ufms.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
