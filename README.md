@@ -23,6 +23,6 @@
   
   ##
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zackkz&bg_color=0D1117&color=05ffe2&line=403d3d&point=05ffe2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  ![Snake animation](https://github.com/zackkz/Zackkz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/zackkz/zackkz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
