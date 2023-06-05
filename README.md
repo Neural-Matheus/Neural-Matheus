@@ -10,6 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">
+  <img align="center" alt="Kali Linux" height="30" src="https://img.shields.io/badge/-Kali%20Linux-0D1117?style=for-the-badge&logo=kali-linux&labelColor=0D1117">
   <img align="center" alt="PyTorch" height="30" src="https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117">
   <img align="center" alt="TensorFlow" height="30" src="https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117">
   <img align="center" alt="C++" height="30" src="https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117">
@@ -27,4 +28,5 @@
   
   ##
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zackkz&bg_color=0D1117&color=05ffe2&line=403d3d&point=05ffe2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=zackkz&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 </div>
