@@ -1,6 +1,4 @@
-<div align="center">
-  <h2 style="font-family: 'Impact'; color: #05ffe2;">🚀 Programador estudante na UFMS Campo Grande, 18 anos, com expertise em <span style="color: #FFD43B;">Node.js</span> e <span style="color: #306998;">Python</span>! 💻</h2>
-</div>
+
 <div align="center">
   <a href="https://github.com/Zackkz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zackkz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
