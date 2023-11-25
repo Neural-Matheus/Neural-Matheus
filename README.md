@@ -21,8 +21,8 @@ Knowledge of C/C++, Python, Node.js, Docker, SQL, and solid knowledge of Machine
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">
-  <img align="center" alt="Google BERT" height="30" src="https://img.shields.io/badge/Google-BERT-yellow?style=for-the-badge&logo=google&logoColor=white">
-  <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396">
+  <img align="center" alt="Google BERT" height="30" src="https://img.shields.io/badge/Google-BERT-yellow?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117">
+  <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117">
   <img align="center" alt="PyTorch" height="30" src="https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117">
   <img align="center" alt="TensorFlow" height="30" src="https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117">
   <img align="center" alt="C++" height="30" src="https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117">
