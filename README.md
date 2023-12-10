@@ -24,6 +24,8 @@ Knowledge of C/C++, Python, Node.js, Docker, SQL, and solid knowledge of Machine
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">
   <img align="center" alt="PyTorch" height="30" src="https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117">
   <img align="center" alt="TensorFlow" height="30" src="https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117">
+  <img align="center" alt="Sklearn" height="30" src="https://img.shields.io/badge/-Scikit%20Learn-0D1117?style=for-the-badge&logo=scikit-learn&labelColor=0D1117">
+  <img align="center" alt="Keras" height="30" src="https://img.shields.io/badge/-Keras-0D1117?style=for-the-badge&logo=keras&labelColor=0D1117">
   <img align="center" alt="C++" height="30" src="https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117">
   <img align="center" alt="C" height="30" src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117">
   <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117">
