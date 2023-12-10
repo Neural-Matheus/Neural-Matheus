@@ -34,6 +34,9 @@ Knowledge of C/C++, Python, Node.js, Docker, SQL, and solid knowledge of Machine
   <img align="center" alt="Node.js" height="30" src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117">
   <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117">
   <img align="center" alt="Heroku" height="30" src="https://img.shields.io/badge/-Heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117">
+  <img align="center" alt="Flask" height="30" src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117">
+  <img align="center" alt="Django" height="30" src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117">
+  <img align="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117">
   <img align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
   <img align="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117">
   <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117">
