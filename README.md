@@ -1,6 +1,6 @@
 Software Engineering Student at UFMS
 
-Knowledge of C/C++, Python, Node.js, Docker, SQL, and solid knowledge of Machine Learning and Natural Language Processing (NLP)
+Future Artificial Intelligence and Machine Learning Engineer and Software Architect
 <div align="center">
   <a href="https://github.com/Zackkz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zackkz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
