@@ -4,7 +4,7 @@ Future Artificial Intelligence and Machine Learning Engineer and Software Archit
 <div align="center">
   <a href="https://github.com/Neural-Matheus">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neural-Matheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackkz&layout=compact&langs_count=7&theme=radical&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-Matheus&layout=compact&langs_count=7&theme=radical&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
   </a>
 </div>
 <div align="center"> 
