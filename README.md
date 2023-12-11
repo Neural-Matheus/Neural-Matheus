@@ -18,7 +18,7 @@ Future Artificial Intelligence and Machine Learning Engineer and Software Archit
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
 </div>
-
+<br>
 <div style="display: inline_block">
   <!-- Linguagens de Programação -->
   <span>
@@ -30,7 +30,6 @@ Future Artificial Intelligence and Machine Learning Engineer and Software Archit
     <img align="center" alt="C#" height="30" src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117">
     <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117">
   </span>
-
   <!-- Frameworks e Bibliotecas -->
   <span>
     <img align="center" alt="PyTorch" height="30" src="https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117">
@@ -41,17 +40,11 @@ Future Artificial Intelligence and Machine Learning Engineer and Software Archit
     <img align="center" alt="Flask" height="30" src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117">
     <img align="center" alt="Django" height="30" src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117">
   </span>
-
   <!-- Banco de Dados -->
   <span>
     <img align="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117">
     <img align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
     <img align="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117">
-  </span>
-  
-  <!-- Arquiteturas de Modelos -->
-  <span>
-    <img align="center" alt="Transformers" height="30" src="https://sua-imagem-do-transformers-aqui">
   </span>
 
   <!-- Ferramentas e Outras Tecnologias -->
