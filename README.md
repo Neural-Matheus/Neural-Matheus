@@ -3,7 +3,7 @@ Software Engineering Student at UFMS
 Future Artificial Intelligence and Machine Learning Engineer and Software Architect
 <div align="center">
   <a href="https://github.com/Neural-Matheus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zackkz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neural-Matheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackkz&layout=compact&langs_count=7&theme=radical&bg_color=000000&title_color=05ffe2&text_color=ffffff"/>
   </a>
 </div>
@@ -49,7 +49,7 @@ Future Artificial Intelligence and Machine Learning Engineer and Software Archit
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zackkz&bg_color=0D1117&color=05ffe2&line=403d3d&point=05ffe2&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neural-Matheus&bg_color=0D1117&color=05ffe2&line=403d3d&point=05ffe2&area=true&hide_border=true">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zackkz&theme=dark&background=0D1117&stroke=05ffe2&ring=403d3d&fire=05ffe2&currStreakLabel=05ffe2&sideLabels=05ffe2">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neural-Matheus&theme=dark&background=0D1117&stroke=05ffe2&ring=403d3d&fire=05ffe2&currStreakLabel=05ffe2&sideLabels=05ffe2">
 </div>
