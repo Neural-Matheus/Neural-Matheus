@@ -19,31 +19,50 @@ Future Artificial Intelligence and Machine Learning Engineer and Software Archit
   </a> 
 </div>
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">
-  <img align="center" alt="PyTorch" height="30" src="https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117">
-  <img align="center" alt="TensorFlow" height="30" src="https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117">
-  <img align="center" alt="Sklearn" height="30" src="https://img.shields.io/badge/-Scikit%20Learn-0D1117?style=for-the-badge&logo=scikit-learn&labelColor=0D1117">
-  <img align="center" alt="Keras" height="30" src="https://img.shields.io/badge/-Keras-0D1117?style=for-the-badge&logo=keras&labelColor=0D1117">
-  <img align="center" alt="C++" height="30" src="https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117">
-  <img align="center" alt="C" height="30" src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117">
-  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117">
-  <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117">
-  <img align="center" alt="C#" height="30" src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117">
-  <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
-  <img align="center" alt="npm" height="30" src="https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117">
-  <img align="center" alt="Node.js" height="30" src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117">
-  <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117">
-  <img align="center" alt="Heroku" height="30" src="https://img.shields.io/badge/-Heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117">
-  <img align="center" alt="Flask" height="30" src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117">
-  <img align="center" alt="Django" height="30" src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117">
-  <img align="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117">
-  <img align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
-  <img align="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117">
-  <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117">
+<div style="display: inline_block">
+  <!-- Linguagens de Programação -->
+  <span>
+    <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">
+    <img align="center" alt="C++" height="30" src="https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117">
+    <img align="center" alt="C" height="30" src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117">
+    <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117">
+    <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117">
+    <img align="center" alt="C#" height="30" src="https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117">
+    <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117">
+  </span>
 
+  <!-- Frameworks e Bibliotecas -->
+  <span>
+    <img align="center" alt="PyTorch" height="30" src="https://img.shields.io/badge/-PyTorch-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117">
+    <img align="center" alt="TensorFlow" height="30" src="https://img.shields.io/badge/-TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117">
+    <img align="center" alt="Scikit Learn" height="30" src="https://img.shields.io/badge/-Scikit%20Learn-0D1117?style=for-the-badge&logo=scikit-learn&labelColor=0D1117">
+    <img align="center" alt="Keras" height="30" src="https://img.shields.io/badge/-Keras-0D1117?style=for-the-badge&logo=keras&labelColor=0D1117">
+    <img align="center" alt="Node.js" height="30" src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117">
+    <img align="center" alt="Flask" height="30" src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117">
+    <img align="center" alt="Django" height="30" src="https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117">
+  </span>
+
+  <!-- Banco de Dados -->
+  <span>
+    <img align="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117">
+    <img align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
+    <img align="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117">
+  </span>
+  
+  <!-- Arquiteturas de Modelos -->
+  <span>
+    <img align="center" alt="Transformers" height="30" src="https://sua-imagem-do-transformers-aqui">
+  </span>
+
+  <!-- Ferramentas e Outras Tecnologias -->
+  <span>
+    <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
+    <img align="center" alt="npm" height="30" src="https://img.shields.io/badge/-npm-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117">
+    <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117">
+    <img align="center" alt="Heroku" height="30" src="https://img.shields.io/badge/-Heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117">
+  </span>
 </div>
+
 
 ##
 
