@@ -31,7 +31,8 @@
 ### Statistics:
 <div align="center">
   <a href="https://github.com/Neural-Matheus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neural-Matheus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-Matheus&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neural-Matheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=05B6E2&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-Matheus&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&title_color=05B6E2&text_color=FFFFFF"/>
   </a>
 </div>
+
