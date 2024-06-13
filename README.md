@@ -2,7 +2,7 @@
 
 ### About me:
 - Software Engineering student at UFMS, 19 years old.
-- Studying Machine Learning, NLP, Computer Vision and Data Structures.
+- Studying Machine Learning, NLP, Computer Vision, Data Structures and Algorithms.
 - Aspiring Engineer in Artificial Intelligence and Machine Learning.
 - Enjoy contributing to Open Source Projects whenever possible.
 
