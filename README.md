@@ -1,16 +1,9 @@
 ## Hello, I'm Matheus! 👋
 
 ### About me:
-- Software Engineering student at UFMS, 19 years old.
+- Software Engineering student, 19 years old.
 - Studying Machine Learning, NLP, Computer Vision, Data Structures, Software Architecture and Algorithms.
-- AI researcher.
-- Enjoy contributing to Open Source Projects whenever possible.
-
-### Machine Learning Expertise:
-- Machine Learning Algorithms.
-- Neural Networks and Deep Learning.
-- Natural Language Processing (NLP).
-- Computer Vision.
+- Machine Learning Researcher.
 
 ### Languages and Tools:
 
