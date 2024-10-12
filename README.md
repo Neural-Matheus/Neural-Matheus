@@ -2,8 +2,7 @@
 
 ### About me:
 - Software Engineering student, 19 years old.
-- Studying Machine Learning, NLP, Computer Vision, Data Structures, Software Architecture and Algorithms.
-- Machine Learning Researcher.
+- Machine Learning Engineer.
 
 ### Languages and Tools:
 
