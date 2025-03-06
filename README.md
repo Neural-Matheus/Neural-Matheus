@@ -1,7 +1,8 @@
 ## Hello, I'm Matheus! 👋
 
 ### About me:
-- Software Engineering student, 19 years old.
+- MSc Computer Science.
+- Software Engineering student, 20 years old.
 - Machine Learning Engineer.
 
 ### Languages and Tools:
