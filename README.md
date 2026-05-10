@@ -1,12 +1,16 @@
-## Hello, I'm Matheus! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Matheus%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=ML%20Engineer%20%7C%20MSc%20Computer%20Science&descSize=18&descAlignY=70" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neural-Matheus&label=Profile%20views&color=05B6E2&style=flat" alt="Profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=05B6E2&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;MSc+in+Computer+Science;Always+learning+something+new" />
+  </a>
 </p>
 
 ### About me:
 - MSc Computer Science.
-- Software Engineering student, 20 years old.
+- Software Engineering student, 21 years old.
 - Machine Learning Engineer.
 
 ### Languages and Tools:
@@ -16,10 +20,7 @@
   </a>
 </p>
 
-### Statistics:
-<div align="center">
-  <a href="https://github.com/Neural-Matheus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neural-Matheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=05B6E2&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-Matheus&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&title_color=05B6E2&text_color=FFFFFF"/>
-  </a>
-</div>
+### Activity:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neural-Matheus&theme=react-dark&bg_color=0D1117&color=05B6E2&line=05B6E2&point=FFFFFF&hide_border=true" />
+</p>
