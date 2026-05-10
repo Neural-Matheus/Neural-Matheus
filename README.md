@@ -1,25 +1,20 @@
 ## Hello, I'm Matheus! 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neural-Matheus&label=Profile%20views&color=05B6E2&style=flat" alt="Profile views" />
+</p>
+
 ### About me:
 - MSc Computer Science.
 - Software Engineering student, 20 years old.
 - Machine Learning Engineer.
 
 ### Languages and Tools:
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,py,gcp,java,spring,c,cpp,ts,r,nodejs,js,express,npm,bash,azure,aws,selenium,git,kubernetes,docker,postgres,mongodb,mysql,postman,regex,kali,ubuntu,gitlab,md"/>
   </a>
 </p>
-
-### Contact:
-<div align="center">
-
-  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.matheus@ufms.br)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vinicius-da-silva-de-oliveira-3738851b8)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_sainth/)
-</div>
 
 ### Statistics:
 <div align="center">
@@ -28,4 +23,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neural-Matheus&layout=compact&langs_count=7&theme=radical&bg_color=0D1117&title_color=05B6E2&text_color=FFFFFF"/>
   </a>
 </div>
-
