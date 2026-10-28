@@ -27,8 +27,3 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,kubernetes,linux,ubuntu,bash,git,gitlab,postgres,mongodb,mysql,gcp,aws,azure,java,spring,c,cpp,ts,js,nodejs,express,r,selenium,postman,regex,md"/>
   </a>
 </p>
-
-### Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neural-Matheus&theme=react-dark&bg_color=0D1117&color=05B6E2&line=05B6E2&point=FFFFFF&hide_border=true" />
-</p>
